@@ -39,21 +39,7 @@ Providing first-line fixes
 Updating ticket statuses
 Documenting resolution steps
 Ensuring user issues are fully resolved
-Project Structure
-IT-Helpdesk-Ticket-Resolution-Lab/
-│
-├── README.md
-├── screenshots/
-│   ├── 01-dashboard.png
-│   ├── 02-login-ticket-created.png
-│   ├── 03-printer-ticket-created.png
-│   ├── 04-slow-pc-ticket-created.png
-│   ├── 05-vpn-ticket-created.png
-│   ├── 06-login-resolved.png
-│   ├── 07-printer-resolved.png
-│   ├── 08-slow-pc-resolved.png
-Incident Logs and Resolution Summary
-Ticket 1: Microsoft 365 Login Issue
+
 
 Issue
 User unable to log into Microsoft 365 account.
