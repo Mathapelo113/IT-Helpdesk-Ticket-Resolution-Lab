@@ -75,9 +75,9 @@ Resolution:
 
 -User regained access after password reset.
 
-📸 Screenshot: 01-login-ticket.png
+![Microsoft 365 Login Ticket](screenshots/02-login-ticket-created.png)
 
-📸 Screenshot: 06-ticket-login-resolved.png
+![Microsoft 365 Login Resolved](screenshots/06-login-resolved.png)
 
 🟡 Ticket 2: Printer Not Printing (Finance Department)
 Issue
@@ -98,9 +98,10 @@ Resolution:
 
 -Printer restored and printing normally.
 
-📸 Screenshot: 03-printer-ticket-created.png
 
-📸 Screenshot: 07-printer-resolved.png
+![Printer Ticket Created](screenshots/05-printer-ticket.png)
+
+![Printer Ticket Resolved](screenshots/06-printer-resolved.png)
 
 🔵 Ticket 3: Slow Computer Performance (HR Department)
 Issue
@@ -121,9 +122,10 @@ Resolution:
 
 -System performance restored after optimization.
 
-📸 Screenshot: 04-slow-pc-ticket-created.png
 
-📸 Screenshot: 08-slow-pc-resolved.png
+![Slow Computer Ticket Created](screenshots/07-slow-computer-ticket.png)
+
+![Slow Computer Ticket Resolved](screenshots/08-slow-computer-resolved.png)
 
 🧠 Key Skills Demonstrated:
 
