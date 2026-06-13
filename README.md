@@ -5,135 +5,125 @@ This project simulates a real-world IT Service Desk environment using Spiceworks
 
 It demonstrates practical IT support skills including incident management, troubleshooting, user support, and ticket resolution workflows.
 
-The lab was designed to replicate 2–3 months of junior IT Support / Service Desk Analyst experience in a corporate environment.
+The lab replicates approximately 2–3 months of junior IT Support / Service Desk Analyst experience in a corporate environment.
 
 Objectives
 Log and manage IT support tickets
 Perform first-line troubleshooting
 Apply incident classification and prioritisation
 Document technical resolutions clearly
-Close tickets following ITIL-style workflow
-Simulate real business IT support operations
+Follow ITIL-style ticket lifecycle management
+Simulate real-world IT service desk operations
 Tools Used
 Spiceworks Help Desk
 Web-based IT ticketing system
 Basic IT troubleshooting techniques
-Simulated Company Environment
+Simulated Environment
 
 Company Name: Matapelo Innovation
 
 Departments Supported:
 
-Finance
-HR
+Finance Department
+Human Resources Department
 General Operations
-Role Played
+Role
 
 IT Support Technician (Service Desk Level 1)
 
 Responsibilities:
 
-Handling incoming support requests
+Handling incoming IT support requests
 Diagnosing technical issues
-Providing first-line fixes
-Updating ticket statuses
-Documenting resolution steps
-Ensuring user issues are fully resolved
+Providing first-line support and resolution
+Updating and closing tickets
+Documenting resolution steps clearly
+Ensuring user issues are resolved efficiently
+Project Structure
 
 
-Issue
+Incident Records and Resolution Summary
+Ticket 1: Microsoft 365 Login Issue
+
+Issue:
 User unable to log into Microsoft 365 account.
 
-Troubleshooting Steps
+Troubleshooting Steps:
 
 Verified user account status
 Performed password reset
 Confirmed successful login
 
-Resolution
+Resolution:
 User regained access after password reset.
 
-Screenshots
+Screenshots:
 
-01-login-ticket-created.png
-06-login-resolved.png
+
+
+
 Ticket 2: Printer Not Printing (Finance Department)
 
-Issue
+Issue:
 Shared network printer not printing documents.
 
-Troubleshooting Steps
+Troubleshooting Steps:
 
 Checked printer connectivity
-Identified print spooler service issue
-Restarted spooler service
+Identified print spooler service failure
+Restarted print spooler service
 Cleared print queue
 
-Resolution
-Printer restored and printing normally.
+Resolution:
+Printer restored and printing functionality resumed.
 
-Screenshots
+Screenshots:
 
-03-printer-ticket-created.png
-07-printer-resolved.png
+
+
+
 Ticket 3: Slow Computer Performance (HR Department)
 
-Issue
+Issue:
 System running slow and freezing during use.
 
-Troubleshooting Steps
+Troubleshooting Steps:
 
 Checked Task Manager for resource usage
 Disabled unnecessary startup applications
 Cleared temporary system files
 Restarted system
 
-Resolution
-System performance restored after optimization.
+Resolution:
+System performance improved after optimization.
 
-Screenshots
+Screenshots:
 
-04-slow-pc-ticket-created.png
-08-slow-pc-resolved.png
+
+
+
 Key Skills Demonstrated
-
 Technical Support
-
 First-line troubleshooting
 Windows system diagnostics (simulated environment)
 Printer and network issue resolution
-User account management concepts
-
+Basic endpoint support
 IT Service Management
-
 Incident logging and tracking
-Ticket prioritisation (High / Medium / Low)
-SLA-style resolution handling
-Proper ticket closure process
-
-Communication Skills
-
-Clear technical documentation
-User-friendly issue explanations
-Professional ticket notes
-
-Workplace Readiness
-
+Ticket prioritisation and categorisation
 ITIL-style workflow understanding
-Corporate support simulation
-Multi-department support handling
-What This Project Demonstrates
+Proper ticket closure process
+Communication Skills
+Clear technical documentation
+Structured resolution notes
+Professional IT communication
+Project Outcome
 
-This project demonstrates the ability to:
+This project demonstrates the ability to operate as a Junior IT Support / Service Desk Technician by handling multiple incidents, applying structured troubleshooting methods, and documenting technical resolutions in a professional IT environment.
 
-Work as a Junior IT Support / Service Desk Technician
-Handle multiple IT incidents
-Apply structured troubleshooting methods
-Document technical solutions clearly
-Operate within a service desk environment
 Career Relevance
 
-This project aligns with roles such as:
+This project aligns with the following roles:
 
 IT Support Technician
 Service Desk Analyst (Level 1)
@@ -141,6 +131,6 @@ Help Desk Technician
 Desktop Support Technician
 Author
 
-Matapelo Mlilo
-South Africa
+Name: Matapelo Mlilo
+Location: South Africa
 Focus: IT Support, Cloud Administration, Help Desk Systems
