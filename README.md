@@ -38,20 +38,7 @@ Providing first-line fixes
 Updating ticket statuses
 Documenting resolution steps
 Ensuring user issues were fully resolved
-📂 Project Structure
-IT-Helpdesk-Ticket-Resolution-Lab/
-│
-├── README.md
-├── screenshots/
-│   ├── 01-dashboard.png
-│   ├── 02-ticket-login-created.png
-│   ├── 03-printer-ticket-created.png
-│   ├── 04-slow-pc-ticket-created.png
-│   ├── 05-vpn-or-issue-ticket-created.png (optional future expansion)
-│   ├── 06-ticket-login-resolved.png
-│   ├── 07-printer-resolved.png
-│   ├── 08-slow-pc-resolved.png
-🧪 Incident Logs & Resolution Summary
+
 🟢 Ticket 1: Microsoft 365 Login Issue
 Issue
 
@@ -66,6 +53,7 @@ Resolution
 User regained access after password reset.
 
 📸 Screenshot: 01-login-ticket.png
+
 📸 Screenshot: 06-ticket-login-resolved.png
 
 🟡 Ticket 2: Printer Not Printing (Finance Department)
@@ -83,6 +71,7 @@ Resolution
 Printer restored and printing normally.
 
 📸 Screenshot: 03-printer-ticket-created.png
+
 📸 Screenshot: 07-printer-resolved.png
 
 🔵 Ticket 3: Slow Computer Performance (HR Department)
@@ -100,6 +89,7 @@ Resolution
 System performance restored after optimization.
 
 📸 Screenshot: 04-slow-pc-ticket-created.png
+
 📸 Screenshot: 08-slow-pc-resolved.png
 
 🧠 Key Skills Demonstrated
