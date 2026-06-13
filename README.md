@@ -9,15 +9,25 @@ The lab was designed to replicate 2–3 months of junior IT Support / Service De
 
 🎯 Objectives
 Log and manage IT support tickets
+
 Perform first-line troubleshooting
+
 Apply incident classification and prioritisation
+
 Document technical resolutions clearly
+
 Close tickets following ITIL-style workflow
+
 Simulate real business IT support operations
+
 🧰 Tools Used
+
 Spiceworks Help Desk
+
 Web-based IT ticketing system
+
 Basic IT troubleshooting techniques
+
 🏢 Simulated Company Environment
 
 Company Name: Matapelo Innovation
@@ -33,10 +43,15 @@ IT Support Technician (Service Desk Level 1)
 Responsibilities included:
 
 Handling incoming support requests
+
 Diagnosing technical issues
+
 Providing first-line fixes
+
 Updating ticket statuses
-Documenting resolution steps
+
+Documenting resolution 
+
 Ensuring user issues were fully resolved
 
 🟢 Ticket 1: Microsoft 365 Login Issue
@@ -45,9 +60,13 @@ Issue
 User unable to log into Microsoft 365 account.
 
 Troubleshooting Steps
+
 Verified user account status
-Performed password reset
+
+Performed password 
+
 Confirmed successful login
+
 Resolution
 
 User regained access after password reset.
@@ -62,10 +81,15 @@ Issue
 Shared network printer not printing documents.
 
 Troubleshooting Steps
+
 Checked printer connectivity
-Identified print spooler service issue
+
+Identified print spooler service 
+
 Restarted spooler service
+
 Cleared print queue
+
 Resolution
 
 Printer restored and printing normally.
@@ -80,10 +104,15 @@ Issue
 System running slow and freezing during use.
 
 Troubleshooting Steps
+
 Checked Task Manager for resource usage
+
 Disabled unnecessary startup applications
+
 Cleared temporary system files
+
 Restarted system
+
 Resolution
 
 System performance restored after optimization.
@@ -92,50 +121,82 @@ System performance restored after optimization.
 
 📸 Screenshot: 08-slow-pc-resolved.png
 
-🧠 Key Skills Demonstrated
+🧠 Key Skills Demonstrated:
+
 🔧 Technical Support
+
 First-line troubleshooting
+
 Windows system diagnostics (simulated)
+
 Printer/network issue resolution
+
 User account management concepts
+
 📋 IT Service Management
+
 Incident logging and tracking
+
 Ticket prioritisation (High / Medium / Low)
+
 SLA-style resolution handling
+
 Proper ticket closure process
+
 🗣️ Communication Skills
+
 Clear technical documentation
+
 User-friendly issue explanations
+
 Professional ticket notes
+
 💼 Workplace Readiness
+
 ITIL-style workflow understanding
+
 Corporate support simulation
+
 Multi-department support handling
+
 📸 Screenshot Guidelines (IMPORTANT)
 
 All screenshots should clearly show:
 
 Ticket summary
+
 Priority level
+
 Status (Open / Closed)
+
 Resolution notes (for resolved tickets)
+
 🚀 What This Project Demonstrates
 
 This project demonstrates real-world ability to:
 
 Work as a Junior IT Support / Service Desk Technician
+
 Handle multiple simultaneous IT incidents
+
 Apply structured troubleshooting methods
+
 Communicate technical solutions clearly
+
 Operate within an IT service desk environment
+
 📈 Career Relevance
 
 This lab aligns with roles such as:
 
 IT Support Technician
+
 Service Desk Analyst (Level 1)
+
 Help Desk Technician
+
 Desktop Support Technician
+
 📌 Author
 
 Name: Matapelo Mlilo
