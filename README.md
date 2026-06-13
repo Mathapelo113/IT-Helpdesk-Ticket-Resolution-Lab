@@ -1,5 +1,5 @@
-🖥️ IT Help Desk Ticket Resolution Lab (Spiceworks Cloud)
-📌 Overview
+#🖥️ IT Help Desk Ticket Resolution Lab (Spiceworks Cloud)
+##📌 Overview
 
 This project simulates a real-world IT Service Desk environment using Spiceworks Help Desk.
 
