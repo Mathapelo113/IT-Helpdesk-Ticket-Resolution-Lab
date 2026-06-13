@@ -7,26 +7,28 @@ It demonstrates practical IT support skills including incident management, troub
 
 The lab was designed to replicate 2–3 months of junior IT Support / Service Desk Analyst experience in a corporate environment.
 
-🎯 Objectives
-Log and manage IT support tickets
+🎯 Objectives:
 
-Perform first-line troubleshooting
 
-Apply incident classification and prioritisation
+1.1 Log and manage IT support tickets
 
-Document technical resolutions clearly
+1.2 Perform first-line troubleshooting
 
-Close tickets following ITIL-style workflow
+1.3 Apply incident classification and prioritisation
 
-Simulate real business IT support operations
+1.4 Document technical resolutions clearly
 
-🧰 Tools Used
+1.5 Close tickets following ITIL-style workflow
 
-Spiceworks Help Desk
+1.6 Simulate real business IT support operations
 
-Web-based IT ticketing system
+🧰 Tools Used:
 
-Basic IT troubleshooting techniques
+2.1 Spiceworks Help Desk
+
+2.2 Web-based IT ticketing system
+
+2.3 Basic IT troubleshooting techniques
 
 🏢 Simulated Company Environment
 
@@ -42,34 +44,36 @@ IT Support Technician (Service Desk Level 1)
 
 Responsibilities included:
 
-Handling incoming support requests
 
-Diagnosing technical issues
+3.1 Handling incoming support requests
 
-Providing first-line fixes
+3.2 Diagnosing technical issues
 
-Updating ticket statuses
+3.3 Providing first-line fixes
 
-Documenting resolution 
+3.4 Updating ticket statuses
 
-Ensuring user issues were fully resolved
+3.5 Documenting resolution 
+
+3.6 Ensuring user issues were fully resolved
+
 
 🟢 Ticket 1: Microsoft 365 Login Issue
 Issue
 
 User unable to log into Microsoft 365 account.
 
-Troubleshooting Steps
+Troubleshooting Steps:
 
-Verified user account status
+-Verified user account status
 
-Performed password 
+-Performed password 
 
-Confirmed successful login
+-Confirmed successful login
 
-Resolution
+Resolution:
 
-User regained access after password reset.
+-User regained access after password reset.
 
 📸 Screenshot: 01-login-ticket.png
 
@@ -80,19 +84,19 @@ Issue
 
 Shared network printer not printing documents.
 
-Troubleshooting Steps
+Troubleshooting Steps:
 
-Checked printer connectivity
+-Checked printer connectivity
 
-Identified print spooler service 
+-Identified print spooler service 
 
-Restarted spooler service
+-Restarted spooler service
 
-Cleared print queue
+-Cleared print queue
 
-Resolution
+Resolution:
 
-Printer restored and printing normally.
+-Printer restored and printing normally.
 
 📸 Screenshot: 03-printer-ticket-created.png
 
@@ -103,19 +107,19 @@ Issue
 
 System running slow and freezing during use.
 
-Troubleshooting Steps
+Troubleshooting Steps:
 
-Checked Task Manager for resource usage
+-Checked Task Manager for resource usage
 
-Disabled unnecessary startup applications
+-Disabled unnecessary startup applications
 
-Cleared temporary system files
+-Cleared temporary system files
 
-Restarted system
+-Restarted system
 
-Resolution
+Resolution:
 
-System performance restored after optimization.
+-System performance restored after optimization.
 
 📸 Screenshot: 04-slow-pc-ticket-created.png
 
@@ -125,77 +129,77 @@ System performance restored after optimization.
 
 🔧 Technical Support
 
-First-line troubleshooting
+-First-line troubleshooting
 
-Windows system diagnostics (simulated)
+-Windows system diagnostics (simulated)
 
-Printer/network issue resolution
+-Printer/network issue resolution
 
-User account management concepts
+-User account management concepts
 
 📋 IT Service Management
 
-Incident logging and tracking
+-Incident logging and tracking
 
-Ticket prioritisation (High / Medium / Low)
+-Ticket prioritisation (High / Medium / Low)
 
-SLA-style resolution handling
+-SLA-style resolution handling
 
-Proper ticket closure process
+-Proper ticket closure process
 
 🗣️ Communication Skills
 
-Clear technical documentation
+-Clear technical documentation
 
-User-friendly issue explanations
+-User-friendly issue explanations
 
-Professional ticket notes
+-Professional ticket notes
 
 💼 Workplace Readiness
 
-ITIL-style workflow understanding
+-ITIL-style workflow understanding
 
-Corporate support simulation
+-Corporate support simulation
 
-Multi-department support handling
+-Multi-department support handling
 
 📸 Screenshot Guidelines (IMPORTANT)
 
 All screenshots should clearly show:
 
-Ticket summary
+-Ticket summary
 
-Priority level
+-Priority level
 
-Status (Open / Closed)
+-Status (Open / Closed)
 
-Resolution notes (for resolved tickets)
+-Resolution notes (for resolved tickets)
 
 🚀 What This Project Demonstrates
 
 This project demonstrates real-world ability to:
 
-Work as a Junior IT Support / Service Desk Technician
+-Work as a Junior IT Support / Service Desk Technician
 
-Handle multiple simultaneous IT incidents
+-Handle multiple simultaneous IT incidents
 
-Apply structured troubleshooting methods
+-Apply structured troubleshooting methods
 
-Communicate technical solutions clearly
+-Communicate technical solutions clearly
 
-Operate within an IT service desk environment
+-Operate within an IT service desk environment
 
 📈 Career Relevance
 
 This lab aligns with roles such as:
 
-IT Support Technician
+-IT Support Technician
 
-Service Desk Analyst (Level 1)
+-Service Desk Analyst (Level 1)
 
-Help Desk Technician
+-Help Desk Technician
 
-Desktop Support Technician
+-Desktop Support Technician
 
 📌 Author
 
