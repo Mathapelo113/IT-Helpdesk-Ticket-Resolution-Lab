@@ -75,9 +75,9 @@ Resolution:
 
 -User regained access after password reset.
 
-![Microsoft 365 Login Ticket](screenshots/02-login-ticket-created.png)
+![Microsoft 365 Login Ticket](screenshots/screenshots/03-ticket-365-login.png)
 
-![Microsoft 365 Login Resolved](screenshots/06-login-resolved.png)
+![Microsoft 365 Login Resolved](screenshots/screenshots/4-ticket-365-resolved.png)
 
 🟡 Ticket 2: Printer Not Printing (Finance Department)
 Issue
