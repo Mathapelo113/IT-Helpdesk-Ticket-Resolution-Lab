@@ -77,7 +77,7 @@ Resolution:
 
 ![Microsoft 365 Login Ticket](screenshots/03-ticket-365-login.png)
 
-![Microsoft 365 Login Resolved](screenshots/4-ticket-365-resolved.png)
+![Microsoft 365 Login Resolved](screenshots/04-ticket-365-resolved.png)
 
 🟡 Ticket 2: Printer Not Printing (Finance Department)
 Issue
